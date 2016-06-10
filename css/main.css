@@ -105,6 +105,19 @@ body {
 	border-radius: 5%;
 	margin-top: 1%;
 }
+/*colores chat*/
+.blue {
+	color: #48E2DD;
+}
+.pink{
+	color: #F870D3;
+}
+.green {
+	color: #41E46B;
+}
+.brown{
+	color:#E6B83B;
+}
 .p-hora {
 	float: right;
 	position: relative;
